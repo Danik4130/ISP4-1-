@@ -1,0 +1,7 @@
+C:\Users\mikha\source\repos\ISP4(1)\ISP4(1)\obj\Debug\ISP4(1).csprojAssemblyReference.cache
+C:\Users\mikha\source\repos\ISP4(1)\ISP4(1)\obj\Debug\ISP4(1).csproj.CoreCompileInputs.cache
+C:\Users\mikha\source\repos\ISP4(1)\ISP4(1)\bin\Debug\ISP4(1).exe.config
+C:\Users\mikha\source\repos\ISP4(1)\ISP4(1)\bin\Debug\ISP4(1).exe
+C:\Users\mikha\source\repos\ISP4(1)\ISP4(1)\bin\Debug\ISP4(1).pdb
+C:\Users\mikha\source\repos\ISP4(1)\ISP4(1)\obj\Debug\ISP4(1).exe
+C:\Users\mikha\source\repos\ISP4(1)\ISP4(1)\obj\Debug\ISP4(1).pdb
